@@ -26,36 +26,40 @@ I'm interested in creating responsive web applications, integrating REST APIs, a
 
 ## 💻 Featured Projects
 
-### 🧘 YogaBloom
+### 🧘 [YogaBloom](https://github.com/DashaDanylkova/stack-overlords)
 
 A team-based web application developed as part of a collaborative project. Served as **Team Lead**, coordinating tasks, Git workflow, and team collaboration. Contributed to the frontend development and helped organize the development process using Agile practices.
 
 **Tech:** HTML5 · CSS3 · JavaScript · Git · GitHub
 
+[Live Demo](https://dashadanylkova.github.io/stack-overlords/) · [Repository](https://github.com/DashaDanylkova/stack-overlords)
 ---
 
-### 🐾 Pet Haven
+### 🐾 [Pet Haven](https://github.com/Ta1siia/pet-haven)
 
 A team-based web application for browsing and finding pets. Worked on **REST API integration**, dynamic rendering of animal cards, and frontend functionality.
 
 **Tech:** JavaScript · REST API · HTML5 · CSS3 · Git
 
+[Live Demo](https://ta1siia.github.io/pet-haven/) · [Repository](https://github.com/Ta1siia/pet-haven)
 ---
 
-### 🎬 Movies App
+### 🎬 [Movies App](https://github.com/DashaDanylkova/04-react-query)
 
 A movie search application built with **React, Vite, and the TMDB REST API**. Implemented movie search, pagination, detailed movie information, modal interactions, and API data fetching.
 
 **Tech:** React · JavaScript · Vite · REST API · Axios
 
+[Live Demo](https://04-react-query-gilt-one-31.vercel.app/) · [Repository](https://github.com/DashaDanylkova/04-react-query)
 ---
 
-### 📝 NoteHub
+### 📝 [NoteHub](https://github.com/DashaDanylkova/09-auth)
 
 A fullstack notes application built with **Next.js and TypeScript**. Worked with authentication, API integration, routing, filtering, and backend functionality.
 
 **Tech:** Next.js · TypeScript · React · Node.js · MongoDB · REST API
 
+[Live Demo](https://09-auth-phi-ten.vercel.app/) · [Repository](https://github.com/DashaDanylkova/09-auth)
 ---
 
 ## 🗣️ Languages
